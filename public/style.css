@@ -1,0 +1,20 @@
+.nav1 {
+    font-family: Montserrat;
+    /*font-size: 25px;*/
+    }
+
+/*.aboutMe {
+    margin: 90px;
+}*/
+
+.aboutMe {
+    width: 500px;
+    font-size: 40px;
+    font-style: bold;
+}
+
+body { 
+    padding-top: 50px; 
+    background-image: url("http://blog.hostbaby.com/wp-content/uploads/2014/03/PaintSwatches_1400x900.jpg");
+    box-sizing: border-box;
+    }
